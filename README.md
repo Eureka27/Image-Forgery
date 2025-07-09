@@ -1,5 +1,6 @@
 # Image-Forgery
 ## Paperlist
+- paper:[M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](https://arxiv.org/abs/2506.20922)(2025.06)
 - paper:[Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization](https://arxiv.org/abs/2504.05224) (2025.04)
 - paper:[OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://arxiv.org/abs/2503.19653) (2025.03)
 - github:[https://github.com/iamwangyabin/OpenSDI](https://github.com/iamwangyabin/OpenSDI)
