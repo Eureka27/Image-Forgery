@@ -1,4 +1,4 @@
-<img width="1247" height="1264" alt="image" src="https://github.com/user-attachments/assets/f0c6f75d-855b-4ef6-9e5b-63bde73ad6f5" /># Image-Forgery
+# Image-Forgery
 ## Paperlist
 - paper:[Training-Free Image Manipulation Localization Using Diffusion Models](https://www.paperdigest.org/paper/?paper_id=aaai-33126-2025-02-25)(AAAI 2025)
 - paper:[A Lottery Ticket Hypothesis Approach with Sparse Fine-tuning and MAE for Image Forgery Detection and Localization](https://www.paperdigest.org/paper/?paper_id=aaai-33192-2025-02-25)(AAAI 2025)
