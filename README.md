@@ -1,5 +1,15 @@
-# Image-Forgery
+<img width="1247" height="1264" alt="image" src="https://github.com/user-attachments/assets/f0c6f75d-855b-4ef6-9e5b-63bde73ad6f5" /># Image-Forgery
 ## Paperlist
+- paper:[Training-Free Image Manipulation Localization Using Diffusion Models](https://www.paperdigest.org/paper/?paper_id=aaai-33126-2025-02-25)(AAAI 2025)
+- paper:[A Lottery Ticket Hypothesis Approach with Sparse Fine-tuning and MAE for Image Forgery Detection and Localization](https://www.paperdigest.org/paper/?paper_id=aaai-33192-2025-02-25)(AAAI 2025)
+- paper:[Mesoscopic Insights: Orchestrating Multi-Scale &amp; Hybrid Architecture for Image Manipulation Localization](https://www.paperdigest.org/paper/?paper_id=aaai-33198-2025-02-25)(AAAI 2025)
+- paper:[SAFIRE: Segment Any Forged Image Region](https://www.paperdigest.org/paper/?paper_id=aaai-32467-2025-02-25)(AAAI 2025)
+- paper:[Critical Forgetting-Based Multi-Scale Disentanglement for Deepfake Detection](https://www.paperdigest.org/paper/?paper_id=aaai-32021-2025-02-25)(AAAI 2025)
+- paper:[SUMI-IFL: An Information-Theoretic Framework for Image Forgery Localization with Sufficiency and Minimality ConstraintsRelated](https://www.paperdigest.org/paper/?paper_id=aaai-32054-2025-02-25)(AAAI 2025)
+- paper:[M²RL-Net: Multi-View and Multi-Level Relation Learning Network for Weakly-Supervised Image Forgery Detection](https://www.paperdigest.org/paper/?paper_id=aaai-32501-2025-02-25)(AAAI 2025)
+- paper:[FakeDiffer: Distributional Disparity Learning on Differentiated Reconstruction for Face Forgery Detection](https://www.paperdigest.org/paper/?paper_id=aaai-32809-2025-02-25)(AAAI 2025)
+- paper:[InpDiffusion: Image Inpainting Localization Via Conditional Diffusion Models](https://www.paperdigest.org/paper/?paper_id=aaai-32837-2025-02-25)(AAAI 2025)
+- paper:[Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization](https://www.paperdigest.org/paper/?paper_id=aaai-32085-2025-02-25)(AAAI 2025)
 - paper:[M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](https://arxiv.org/abs/2506.20922) (2025.06)
 - paper:[SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection](https://arxiv.org/abs/2506.20599)(2025.06)
 - github:[https://github.com/GeoX-Lab/RSTI/tree/main/SFNet](https://github.com/GeoX-Lab/RSTI/tree/main/SFNet)
