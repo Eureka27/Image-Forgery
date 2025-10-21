@@ -14,6 +14,8 @@
 - paper:[Critical Forgetting-Based Multi-Scale Disentanglement for Deepfake Detection](https://www.paperdigest.org/paper/?paper_id=aaai-32021-2025-02-25)(AAAI 2025)
 - paper:[Revisiting Tampered Scene Text Detection in The Era of Generative AI](https://www.paperdigest.org/paper/?paper_id=aaai-32051-2025-02-25)(AAAI 2025)
 - paper:[Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection](https://www.paperdigest.org/paper/?paper_id=aaai-34826-2025-02-25)(AAAI 2025)
+- paper:[DFPD: Dual-Forgery Proactive Defense against Both Deepfakes and Traditional Image Manipulations]()(CCF-A 2025)
+- github:[https://github.com/imagecbj/DFPD](https://github.com/imagecbj/DFPD)
 - paper:[Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection](https://cvpr.thecvf.com/virtual/2025/poster/33184)(CVPR 2025)
 - paper:[Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection](https://cvpr.thecvf.com/virtual/2025/poster/33944)(CVPR 2025)
 - paper:[Towards General Visual-Linguistic Face Forgery Detection](https://cvpr.thecvf.com/virtual/2025/poster/33669)(CVPR 2025)
@@ -31,8 +33,6 @@
 - github:[https://github.com/HengruiLou/STDFD](https://github.com/HengruiLou/STDFD)
 - paper:[Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://icml.cc/virtual/2025/oral/47242)(ICML 2025)
 - paper:[EAN: Edge-Aware Network for Image Manipulation Localization](https://ieeexplore.ieee.org/document/10705343)(IEEE TCSVT)
-- paper:[DFPD: Dual-Forgery Proactive Defense against Both Deepfakes and Traditional Image Manipulations]
-- github:[https://github.com/imagecbj/DFPD](https://github.com/imagecbj/DFPD)
 - paper:[AFCMS-Net: Adaptive feature coupling and multi-level supervision network for effective image forgery localization](https://www.sciencedirect.com/science/article/pii/S0950705125011670)(KBS 2025)
 - github:[https://github.com/SwallowIsXYZ/0617_AFCMS-Net](https://github.com/SwallowIsXYZ/0617_AFCMS-Net)
 - paper:[M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](https://arxiv.org/abs/2506.20922) (2025.06)
