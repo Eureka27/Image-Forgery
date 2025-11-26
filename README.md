@@ -43,6 +43,8 @@
 - paper:[MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder](https://ojs.aaai.org/index.php/AAAI/article/view/32606) (2025.04)
 - github:[https://github.com/MrHuan3/MUN](https://github.com/MrHuan3/MUN)
 - paper:[Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization](https://arxiv.org/abs/2504.05224) (2025.04)
+- paper:[Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](https://arxiv.org/abs/2504.11922)(2025.04)
+- github:[https://github.com/clpbc/BR-Gen](https://github.com/clpbc/BR-Gen)
 - paper:[OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://arxiv.org/abs/2503.19653) (2025.03)
 - github:[https://github.com/iamwangyabin/OpenSDI](https://github.com/iamwangyabin/OpenSDI)
 - paper:[DeCLIP: Decoding CLIP representations for deepfake localization](https://ieeexplore.ieee.org/abstract/document/10943612) (2025.02)
