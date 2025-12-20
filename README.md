@@ -1,5 +1,6 @@
 # Image-Forgery
 ## Paperlist
+- paper:[Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection](https://arxiv.org/abs/2512.16300)
 - paper:[Training-Free Image Manipulation Localization Using Diffusion Models](https://www.paperdigest.org/paper/?paper_id=aaai-33126-2025-02-25)(AAAI 2025)
 - paper:[A Lottery Ticket Hypothesis Approach with Sparse Fine-tuning and MAE for Image Forgery Detection and Localization](https://www.paperdigest.org/paper/?paper_id=aaai-33192-2025-02-25)(AAAI 2025)
 - paper:[Mesoscopic Insights: Orchestrating Multi-Scale &amp; Hybrid Architecture for Image Manipulation Localization](https://www.paperdigest.org/paper/?paper_id=aaai-33198-2025-02-25)(AAAI 2025)
